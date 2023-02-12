@@ -1,0 +1,12 @@
+001,Vor dem Gesetz,001,Kafka,1915
+002,Das Urteil,001,Kafka,1913
+003,Antwort aus der Stille,002,Max Frisch,1937
+004,Faust,002,Goethe,1788
+005,Kabale und Liebe,002,Schiller,1784
+006,Die Marquise von O,001,Kleist,1808
+007,Der Sandmann,002,ETA Hoffmann,1816
+008,Der Untergang des Hauses Usher,004,Edgar Allan Poe,1840
+009,Frankenstein,001,Mary Shelley,1830
+010,Les Fleurs du Mal,006,Baudelaires,1857
+011,Der Zauberberg,002,Thomas Mann,1920
+012,Er ist wieder da,002,Timur Vermes,2012
